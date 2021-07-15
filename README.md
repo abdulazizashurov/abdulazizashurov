@@ -46,5 +46,5 @@
 
 
 [youtube]: https://www.youtube.com/channel/UCaukNT_3XasqlTMc8yev7tQ
-[instagram]: https://instagram.com/abdulziz.mahdiy
+[instagram]: https://www.instagram.com/abdulaziz.mahdiy/
 [telegram]: https://t.me/su11360
