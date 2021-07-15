@@ -13,10 +13,27 @@
 ## My Stack:
 - ### Backend
   - Python
-  -  Django + DRF
-  -   Aiogram (Telagram Bot)
-  - AsyncIO
+  - Django + DRF
+  - Aiogram (Telegram Bot)
+
 - ### Frontend
+  - HTML / CSS /JS
+  - React Js
+  
+- ### Databases
+  - SQL
+  - PostgreSQL
+  
+- ### Servers
+   - Ubuntu
+   - Digital-Ocean
+   - AWS
+
+- ### Other tools
+  - Docker
+  - Redis
+
+
 <br />
 
 
