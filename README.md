@@ -32,6 +32,10 @@
 <br />
 <br />
 
+<h3> 📈 My Stats (I mostly commit to private repos)</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulazizashurov&show_icons=true&theme=vision-friendly-dark" alt="Abdulaziz" width="100%" >
+
 
 # Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
