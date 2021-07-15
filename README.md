@@ -11,11 +11,12 @@
 
 
 ## My Stack:
-
-- Python
-- Django + DRF
-- Aiogram (Telagram Bot)
-- AsyncIO
+- ### Backend
+  - Python
+  -  Django + DRF
+  -   Aiogram (Telagram Bot)
+  - AsyncIO
+- ### Frontend
 <br />
 
 
